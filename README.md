@@ -2,7 +2,7 @@
 
 CryptX is a high-performance CLI utility designed for rapid text encryption and decryption using military-grade standards.
 
-## 🚀 Features
+##  Features
 - **Key Generation**: Create unique 256-bit keys for secure storage.
 - **Symmetric Encryption**: Fast and reliable encryption/decryption workflows.
 - **Data Integrity**: Uses HMAC to ensure encrypted data hasn't been modified.
