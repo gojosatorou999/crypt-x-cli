@@ -8,7 +8,7 @@ CryptX is a high-performance CLI utility designed for rapid text encryption and 
 - **Data Integrity**: Uses HMAC to ensure encrypted data hasn't been modified.
 
 ## 🧠 The Algorithm: Fernet (AES-128-CBC)
-
+  
 This tool utilizes **Fernet**, a specific implementation of symmetric (shared key) cryptography. It is built on top of standardized, battle-tested primitives:
       
 ### Key Components :       
